@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo Debug</string>
+    <string name="hint_txtNome">Informe seu nome</string>
+    <string name="hint_txtTelefone">Informe seu telefone</string>
+    <string name="labelExibir">Exibir</string>
+    <string name="informe_nota_1">Informe nota 1</string>
+    <string name="informe_nota_2">Informe nota 2</string>
+    <string name="informe_nota_3">Informe nota 3</string>
+</resources>
